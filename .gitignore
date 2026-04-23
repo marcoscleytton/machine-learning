@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.ipynb_checkpoints/
+
+# dados grandes
+data/
+
+# arquivos temporários
+*.log
+
+# datasets grandes
+src/creditcard.csv
+data/
+*.csv
